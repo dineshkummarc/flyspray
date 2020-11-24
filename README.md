@@ -4,7 +4,7 @@ Please do not use Github for your bug reports or feature request. Instead use ou
 
 www.flyspray.org
 
-# Flyspray Bug Tracking System
+# Flyspray - Bug Tracking System
 
 Flyspray is an uncomplicated, web-based bug and task tracking system.
 
